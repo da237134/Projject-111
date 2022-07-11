@@ -1,0 +1,11 @@
+header{
+    background-color: aqua;
+    border-radius: 20;
+    border: rgb(54, 118, 177) solid 5px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
